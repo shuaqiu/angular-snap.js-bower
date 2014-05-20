@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "angular": "~1.2.4",
-    "snapjs": "latest"
+    "snapjs": "https://github.com/shuaqiu/Snap.js.git#latest"
   }
 }
